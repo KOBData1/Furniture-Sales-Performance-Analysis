@@ -1,7 +1,7 @@
 # 📊 Furniture-Sales-Performance-Analysis (2014–2017)
 This project analyzes *U.S. Furniture Sales (2014–2017)* across the four major regions (Central, East, South, West) to uncover patterns in *sales, profits, sub-category performance, city contributions, and shipping modes*. Includes insights, recommendations and data storytelling.. 
 
-The analysis was conducted as part of my *Data Analytics Bootcamp at Digitaley Drive, trained by *Sakira Daodu.  
+The analysis was conducted as part of my *Data Analytics Bootcamp at Digitaley Drive, trained by Sakira Daodu*.  
 The dashboard was built in *Excel*, with slicers and filters for dynamic exploration.
 
 ---
@@ -24,9 +24,9 @@ Key fields include:
 - Profit
 - Month
 
-<img width="1281" height="263" alt="image" src="https://github.com/user-attachments/assets/33b06f0d-bcd5-48e5-be67-2f06ba0f4c44" />
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/33b06f0d-bcd5-48e5-be67-2f06ba0f4c44" />
 
-<img width="940" height="266" alt="image" src="https://github.com/user-attachments/assets/3198e489-f5b5-4308-95c7-58c8a4f9a2c2" />
+<img width="900" height="250" alt="image" src="https://github.com/user-attachments/assets/3198e489-f5b5-4308-95c7-58c8a4f9a2c2" />
 
 
 ---
@@ -39,7 +39,8 @@ The dataset was clean, so only minor adjustments (changing data types) were made
 ## Methodology
 The analysis was conducted in excel where i used pivot tables. Calculated columns were created where necessary to derive deeper insights into sales and profitability trends.
 
-<img width="1259" height="575" alt="image" src="https://github.com/user-attachments/assets/ebedefe3-40bd-497c-a19d-a22e101410ca" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/b23f9309-9cbc-4212-a1f8-13189657d158" />
+
 
 
 ---
@@ -54,25 +55,36 @@ The analysis was conducted in excel where i used pivot tables. Calculated column
 - Chairs sold best; Furnishings & Bookcases lagged.  
 - Houston led sales ($5.6K).
 
-   
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/7298dd4f-dd25-4dcb-8594-c635886ff2e7" />
+
+  --- 
 
 *2015*
 - September & November = highest profits; November = highest sales.  
 - March & May had high sales, but March’s profit was very low.  
 - Chairs dominated; Furnishings lowest.  
-- Houston led sales; Dallas, Milwaukee & Kenosha lowest.  
+- Houston led sales; Dallas, Milwaukee & Kenosha lowest.
+
+   <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/eae89f12-0aa5-4898-9e9f-5517c33bd5ac" />
+
+---
 
 *2016*
 - December = highest sales & profit.  
 - September & November had high sales but no profit.  
 - Houston highest, Detroit close.  
-- Chairs sold best, Furnishings lowest.  
+- Chairs sold best, Furnishings lowest.
 
+   <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/ce4cf19b-720d-4d36-a0c6-324bad94b355" />
+
+---
 *2017*
 - March = highest sales & profit.  
 - Jan, Feb, Jul, Sep, Oct, Nov made sales but negative profit.  
 - Chairs dominated; Furnishings & Bookcases lowest.  
-- Detroit, Chicago, Houston led sales.  
+- Detroit, Chicago, Houston led sales.
+
+  <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/5374e69b-beaa-48ba-943e-70af4a8f8842" />
 
 ---
 
@@ -81,27 +93,41 @@ The analysis was conducted in excel where i used pivot tables. Calculated column
 - September = highest sales & profit.  
 - March sold well but incurred debt.  
 - Chairs highest, Furnishings lowest.  
-- New York dominated sales.  
+- New York City dominated sales.
+
+   <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/9b412160-9102-4aeb-9ba1-607bc9fc4a37" />
+
+---
 
 *2015*
 - November = high sales & high profit.  
 - September = high sales but negative profit.  
 - Chairs led; Bookcases close behind; Furnishings lowest.  
-- New York highest sales.  
+- New York City highest sales.  
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/550c3d61-3e23-4fd8-a491-4b20fdd949da" />
+
+---
 
 *2016*
 - December = highest sales & profit.  
 - September profit strong; November had higher sales but low profit.  
 - March & June had sales but negative profit.  
 - Chairs highest, Bookcases lowest.  
-- NYC highest.  
+- New York City highest sales.  
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/262a0ac1-56ba-43be-bac8-66bd212f444f" />
+
+---
 
 *2017*
 - September = highest sales & profit.  
 - November = high sales but low profit.  
 - August = high sales, no profit.  
 - Chairs dominated; Bookcases lowest.  
-- NYC highest, Philadelphia second.  
+- New York City highest sales, Philadelphia second.  
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/d698030f-06cb-4e31-a604-ef822273d0dd" />
 
 ---
 
@@ -112,11 +138,19 @@ The analysis was conducted in excel where i used pivot tables. Calculated column
 - Chairs led; Tables close. Bookcases lowest.  
 - Harrisonburg highest sales, Springfield lowest.  
 
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/0b316baa-6f6b-4492-8465-a0790e67d07d" />
+
+---
+
 *2015*
 - September = highest sales & profit.  
 - January high sales but low profit.  
 - Chairs led; Tables close. Bookcases lowest.  
 - Concord highest sales.  
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/910b6c77-137c-4609-8477-a72b05b7e929" />
+
+---
 
 *2016*
 - November = highest sales with low profit.  
@@ -125,12 +159,18 @@ The analysis was conducted in excel where i used pivot tables. Calculated column
 - Tables led, Bookcases lowest.  
 - Springfield highest sales.  
 
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/25e0bd6f-dbe3-41fd-adaa-0ca8ec37eca0" />
+
+---
+
 *2017*
 - May & October = highest sales, but profit low/negative.  
 - November = high sales, no profit.  
 - December = little profit.  
 - Chairs highest; Tables close. Furnishings lowest.  
 - Jacksonville highest sales; Henderson lowest.  
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8e5d7c5a-94f5-421f-aabe-d5fcbdf1615b" />
 
 ---
 
@@ -141,12 +181,20 @@ The analysis was conducted in excel where i used pivot tables. Calculated column
 - Chairs highest, Tables close, Furnishings lowest.  
 - Los Angeles highest, Sacramento lowest.  
 
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/ac683413-4f11-4ed2-921e-536ff7444812" />
+
+---
+
 *2015*
 - December = highest sales but very low profit.  
 - March = highest profit.  
 - July, August, April, October = sales but losses.  
 - Chairs led; Furnishings lowest.  
 - Seattle highest, Carmallo lowest.  
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/18eab9f0-12a0-4a61-a951-ef8cbf938b1d" />
+
+---
 
 *2016*
 - December = highest sales, low profit.  
@@ -155,12 +203,18 @@ The analysis was conducted in excel where i used pivot tables. Calculated column
 - Chairs led, Tables close, Furnishings lowest.  
 - Los Angeles highest, Henderson lowest.  
 
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/64ade259-d703-49d7-aac1-b7d9f40d8c9e" />
+
+---
+
 *2017*
 - November = highest sales.  
 - May & October = sales but losses.  
 - December = low profit relative to sales.  
 - Chairs highest, Tables close, Furnishings lowest.  
 - Seattle & Los Angeles led sales; San Francisco close.  
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/b07521c5-2a5b-447e-ad41-6f6f586786c3" />
 
 ---
 
@@ -183,7 +237,7 @@ The analysis was conducted in excel where i used pivot tables. Calculated column
 - Reevaluate pricing strategies during seasonal peaks.  
 
 ### 3. Leverage top-performing cities for growth
-- Strengthen distribution and marketing in NYC, Houston, Los Angeles, and Seattle (top sales drivers).  
+- Strengthen distribution and marketing in New York City, Houston, Los Angeles, and Seattle (top sales drivers).  
 - Explore micro-targeted campaigns in these cities to increase brand loyalty and repeat purchases.  
 - Use them as “anchor cities” to test new campaigns before rolling them out nationwide.  
 
@@ -205,10 +259,10 @@ The analysis was conducted in excel where i used pivot tables. Calculated column
 ---
 
 ## 📌 Dashboard
-The interactive Excel dashboard allows filtering by *year, region, and category*.  
+The interactive Excel dashboard allows filtering by *year, and region*.  
 
-👉 View the full interactive report here  
+👉 [View the full interactive report here](https://docs.google.com/spreadsheets/d/18bdPEyLN2Eh6A-Hm7FCtDJU99cnA-xCM/edit?usp=drivesdk&ouid=113761501311242743522&rtpof=true&sd=true)  
 
 ---
 
-✨ This project improved my ability to *merge data storytelling with actionable insights* — a critical skill for any data analyst.
+✨ This project improved my ability to *merge data storytelling with actionable insights*, a critical skill for any data analyst.
